@@ -9,7 +9,7 @@ public class hello {
         String lastName = "D'Haiti";
 		String MiddleName = "Sedar";
 	
-        System.out.println("Hello Class!");
+        System.out.println("Hello Class! my name is " + firstName+ MiddleName + lastName );
 
 
 
