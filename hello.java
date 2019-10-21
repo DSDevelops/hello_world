@@ -7,6 +7,7 @@ public class hello {
 
         String firstName = "David";
         String lastName = "D'Haiti";
+		String MiddleName = "Sedar";
 	
         System.out.println("Hello Class!");
 
